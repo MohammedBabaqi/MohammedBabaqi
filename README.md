@@ -33,8 +33,7 @@
 
 ### 🤝 Let’s Connect
 - 📧 Email: mbabaqi2020@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/MohammedBabaqi)  
-- 🔗 [Kaggle](https://kaggle.com/Mohbabaqi)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-babaqi-aa8a60311/)  
 ---
 
 > “Data doesn’t lie — it just waits for someone to read it right.”
