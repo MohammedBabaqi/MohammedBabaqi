@@ -1,69 +1,84 @@
-<p>
-  <img src="https://raw.githubusercontent.com/MohammedBabaqi/MohammedBabaqi/main/assets/profile-banner.svg?v=2" alt="Mohammed Babaqi — Data Engineer" width="100%" />
+<p align="center">
+  <a href="https://babaqi.io">
+    <img src="https://raw.githubusercontent.com/MohammedBabaqi/MohammedBabaqi/main/assets/profile-banner.svg?v=3" alt="Mohammed Babaqi — Data Engineer. Building the systems between raw data and real decisions." width="100%" />
+  </a>
 </p>
 
-I'm a **Data Engineer** with a background in data science and analytics. I work with **Python, SQL and Spark** to build data pipelines, improve data quality and turn raw sources into useful data products.
-
-## Projects
-
-### Palestine Names · أسماء لا تُنسى
-
-An Arabic memorial and searchable archive, with validated data updates, snapshot recovery and an optional AI archivist.
-
-`Python` `FastAPI` `Next.js` `LangChain`
-
-[Visit website ↗](https://palestine.babaqi.io) · [Source code ↗](https://github.com/MohammedBabaqi/palestine-names)
-
-<a href="https://palestine.babaqi.io">
-  <img src="https://github.com/MohammedBabaqi/Portfolio/blob/main/assets/images/palestines-names.png?raw=true" alt="Palestine Names — Arabic memorial website" width="100%" />
-</a>
+<p align="center">
+  <strong>Data pipelines · Data quality · Analytical systems</strong><br />
+  From ingestion and transformation to the products people use.
+</p>
 
 ---
 
-### DineIQ Analytics
+### Engineering the path from source to insight
 
-Restaurant analytics built on a data quality pipeline, defect quarantine and **12 Spark analytical marts**, using a synthetic benchmark of **1.31M raw records**.
+I'm a **Data Engineer** with a foundation in data science and analytics. I build workflows that collect, clean, validate and transform data into useful datasets, APIs and analytical products.
 
-`PySpark` `SQL` `Parquet` `PostgreSQL` `FastAPI`
+My work connects the engineering underneath a system with the decisions it supports: **traceable transformations, explicit quality checks and data that is ready to use.**
 
-[Source code & documentation ↗](https://github.com/datamindsye/DineIQ-Analytics)
+| Focus | What I build |
+| :--- | :--- |
+| **Pipelines & integration** | Ingestion from APIs, websites and files; automated processing with Python and SQL. |
+| **Quality & modeling** | Validation rules, defect quarantine, clean Parquet snapshots and analytical marts. |
+| **Data products** | FastAPI services, interactive dashboards and datasets for BI and machine learning. |
 
-<a href="https://github.com/datamindsye/DineIQ-Analytics">
-  <img src="https://github.com/datamindsye/DineIQ-Analytics/blob/main/docs/report/assets/screenshots/02_executive_overview.png?raw=true" alt="DineIQ Analytics — executive overview dashboard" width="100%" />
-</a>
+### Selected work
 
----
+#### 01 / Palestine Names — أسماء لا تُنسى
+**A searchable archive that keeps people behind the records in view.**
 
-### InsightBot
+An Arabic memorial and searchable archive using the Tech For Palestine names dataset. The backend validates source updates, preserves the last valid snapshot and serves search and statistics through an API. An optional AI archivist helps visitors explore the records.
 
-An automated pipeline that collects news from **30+ websites**, processes multilingual content and delivers insights through MongoDB, Streamlit and Power BI.
+`Python` `FastAPI` `Next.js` `TypeScript` `LangChain`
 
-`Python` `Web Scraping` `NLP` `MongoDB` `Power BI`
+[![Palestine Names — source code](https://raw.githubusercontent.com/MohammedBabaqi/MohammedBabaqi/main/assets/badges/palestine-names.svg)](https://github.com/MohammedBabaqi/palestine-names)
 
-[Source code & documentation ↗](https://github.com/dataminds0/InsightBot)
-
-<a href="https://github.com/dataminds0/InsightBot">
-  <img src="https://github.com/dataminds0/InsightBot/blob/main/images/report.png?raw=true" alt="InsightBot — Power BI news analytics dashboard" width="100%" />
-</a>
-
----
-
-### DiaClassifier
-
-A diabetes classification project connecting data preprocessing and model benchmarking to a FastAPI inference service and Streamlit application.
-
-`Python` `scikit-learn` `XGBoost` `FastAPI` `Docker`
-
-[Live demo ↗](https://diaclassifier.streamlit.app/) · [Source code ↗](https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models)
-
-<a href="https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models">
-  <img src="https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models/blob/main/images/screenshot.png?raw=true" alt="DiaClassifier — Streamlit application" width="100%" />
-</a>
+[Visit the memorial ↗](https://palestine.babaqi.io)
 
 ---
 
-**Portfolio & CV**  
-[Website](https://babaqi.io) · [CV / Resume (PDF)](https://github.com/MohammedBabaqi/Portfolio/blob/main/docs/resume.pdf)
+#### 02 / InsightBot
+**A pipeline from news sources to structured intelligence.**
 
-**Contact**  
-[LinkedIn](https://www.linkedin.com/in/mohammed-babaqi-aa8a60311/) · [mbabaqi2020@gmail.com](mailto:mbabaqi2020@gmail.com)
+Automated collection from **30+ news websites**, followed by cleaning, multilingual NLP processing and MongoDB storage. Streamlit and Power BI turn the processed articles into searchable, visual insights.
+
+`Python` `Web Scraping` `NLP` `MongoDB` `Streamlit` `Power BI`
+
+[![InsightBot — source code](https://raw.githubusercontent.com/MohammedBabaqi/MohammedBabaqi/main/assets/badges/insightbot.svg)](https://github.com/dataminds0/InsightBot)
+
+---
+
+#### 03 / DiaClassifier
+**From model experimentation to an API-backed application.**
+
+A diabetes classification project covering preprocessing, model benchmarking and an application with a FastAPI inference service and Streamlit interface.
+
+`Python` `scikit-learn` `XGBoost` `FastAPI` `Streamlit` `Docker`
+
+[![DiaClassifier — source code](https://raw.githubusercontent.com/MohammedBabaqi/MohammedBabaqi/main/assets/badges/diaclassifier.svg)](https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models)
+
+[Try the demo ↗](https://diaclassifier.streamlit.app/)
+
+<p>
+  <a href="https://babaqi.io/#projects"><strong>More work on my portfolio ↗</strong></a>
+</p>
+
+---
+
+### Tools across my work
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages & processing** | Python · SQL · PySpark · pandas · Dask |
+| **Storage & analytical data** | PostgreSQL · MongoDB · MySQL · SQL Server · Parquet |
+| **Applications & delivery** | FastAPI · Docker · Git · Streamlit |
+| **Analytics & machine learning** | Power BI · Excel · Plotly · scikit-learn · XGBoost |
+
+### Let's build something useful
+
+For data engineering opportunities, technical collaboration or a conversation about your next data project:
+
+**[mbabaqi2020@gmail.com](mailto:mbabaqi2020@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/mohammed-babaqi-aa8a60311/) · [Portfolio](https://babaqi.io) · [CV / Resume](https://github.com/MohammedBabaqi/Portfolio/blob/main/docs/resume.pdf)
+
+<p align="center"><sub>Mohammed Babaqi · Data Engineer · <a href="https://babaqi.io">babaqi.io</a></sub></p>
