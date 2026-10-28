@@ -1,40 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
   <title id="title">Mohammed Babaqi — Data Engineer</title>
-  <desc id="desc">A midnight and copper banner showing the path from data ingestion through transformation and modeling to delivery.</desc>
-  <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#36505e" opacity=".35"/>
-    </pattern>
-  </defs>
-  <rect width="1280" height="440" rx="20" fill="#0c1821"/>
-  <rect x="850" y="1" width="429" height="438" rx="20" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1278" height="438" rx="19" fill="none" stroke="#2b3e49"/>
-  <path d="M60 63h36" stroke="#e3a876" stroke-width="3"/>
-  <text x="110" y="68" fill="#b4c2cb" font-family="Consolas, monospace" font-size="15" letter-spacing="3">DATA / SYSTEMS / INTELLIGENCE</text>
-  <text x="1220" y="68" text-anchor="end" fill="#e3a876" font-family="Consolas, monospace" font-size="16">BABAQI.IO</text>
-  <text x="56" y="161" fill="#f4f0e8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="78" letter-spacing="-3">Mohammed Babaqi</text>
-  <text x="60" y="213" fill="#e3a876" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="600">Data Engineer</text>
-  <text x="60" y="253" fill="#b4c2cb" font-family="Arial, Helvetica, sans-serif" font-size="21">Building the systems between raw data and real decisions.</text>
-  <g fill="none" stroke="#314954" stroke-width="2">
-    <path d="M70 333h1138"/>
-    <path d="m352 328 6 5-6 5m290-10 6 5-6 5m290-10 6 5-6 5" stroke="#e3a876"/>
-  </g>
-  <g fill="#0c1821" stroke="#e3a876" stroke-width="2">
-    <circle cx="70" cy="333" r="7"/>
-    <circle cx="450" cy="333" r="7"/>
-    <circle cx="830" cy="333" r="7"/>
-    <circle cx="1208" cy="333" r="7" fill="#e3a876"/>
-  </g>
-  <g fill="#f4f0e8" font-family="Consolas, monospace" font-size="18" letter-spacing="2">
-    <text x="60" y="376">01 INGEST</text>
-    <text x="450" y="376" text-anchor="middle">02 TRANSFORM</text>
-    <text x="830" y="376" text-anchor="middle">03 MODEL</text>
-    <text x="1220" y="376" text-anchor="end">04 SERVE</text>
-  </g>
-  <g fill="#8fa6b3" font-family="Arial, Helvetica, sans-serif" font-size="15">
-    <text x="60" y="405">Sources &amp; APIs</text>
-    <text x="450" y="405" text-anchor="middle">Pipelines &amp; quality</text>
-    <text x="830" y="405" text-anchor="middle">Analytics-ready data</text>
-    <text x="1220" y="405" text-anchor="end">Products &amp; insight</text>
-  </g>
+  <desc id="desc">A simple dark profile card with Mohammed Babaqi's name and Data Engineer title.</desc>
+  <rect width="1200" height="210" rx="12" fill="#101820"/>
+  <rect x="1" y="1" width="1198" height="208" rx="11" fill="none" stroke="#29333d"/>
+  <rect x="32" y="48" width="3" height="114" rx="1.5" fill="#c5a17d"/>
+  <text x="60" y="100" fill="#f1f2f3" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="600" letter-spacing="-1.5">Mohammed Babaqi</text>
+  <text x="62" y="150" fill="#aebbc6" font-family="Arial, Helvetica, sans-serif" font-size="30">Data Engineer</text>
 </svg>
