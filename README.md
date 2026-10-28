@@ -15,7 +15,7 @@ An Arabic memorial and searchable archive, with validated data updates, snapshot
 [Visit website ↗](https://palestine.babaqi.io) · [Source code ↗](https://github.com/MohammedBabaqi/palestine-names)
 
 <a href="https://palestine.babaqi.io">
-  <img src="https://raw.githubusercontent.com/MohammedBabaqi/Portfolio/main/assets/images/palestines-names.png" alt="Palestine Names — Arabic memorial website" width="100%" />
+  <img src="https://github.com/MohammedBabaqi/Portfolio/blob/main/assets/images/palestines-names.png?raw=true" alt="Palestine Names — Arabic memorial website" width="100%" />
 </a>
 
 ---
@@ -29,7 +29,7 @@ Restaurant analytics built on a data quality pipeline, defect quarantine and **1
 [Source code & documentation ↗](https://github.com/datamindsye/DineIQ-Analytics)
 
 <a href="https://github.com/datamindsye/DineIQ-Analytics">
-  <img src="https://raw.githubusercontent.com/datamindsye/DineIQ-Analytics/main/docs/report/assets/screenshots/02_executive_overview.png" alt="DineIQ Analytics — executive overview dashboard" width="100%" />
+  <img src="https://github.com/datamindsye/DineIQ-Analytics/blob/main/docs/report/assets/screenshots/02_executive_overview.png?raw=true" alt="DineIQ Analytics — executive overview dashboard" width="100%" />
 </a>
 
 ---
@@ -43,7 +43,7 @@ An automated pipeline that collects news from **30+ websites**, processes multil
 [Source code & documentation ↗](https://github.com/dataminds0/InsightBot)
 
 <a href="https://github.com/dataminds0/InsightBot">
-  <img src="https://raw.githubusercontent.com/dataminds0/InsightBot/main/images/report.png" alt="InsightBot — Power BI news analytics dashboard" width="100%" />
+  <img src="https://github.com/dataminds0/InsightBot/blob/main/images/report.png?raw=true" alt="InsightBot — Power BI news analytics dashboard" width="100%" />
 </a>
 
 ---
@@ -57,7 +57,7 @@ A diabetes classification project connecting data preprocessing and model benchm
 [Live demo ↗](https://diaclassifier.streamlit.app/) · [Source code ↗](https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models)
 
 <a href="https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models">
-  <img src="https://raw.githubusercontent.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models/main/images/screenshot.png" alt="DiaClassifier — Streamlit application" width="100%" />
+  <img src="https://github.com/MohammedBabaqi/DiaClassifier-Benchmarking-ML-Models/blob/main/images/screenshot.png?raw=true" alt="DiaClassifier — Streamlit application" width="100%" />
 </a>
 
 ---
