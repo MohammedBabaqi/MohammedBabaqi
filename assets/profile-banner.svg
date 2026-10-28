@@ -1,9 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
   <title id="title">Mohammed Babaqi — Data Engineer</title>
-  <desc id="desc">A simple dark profile card with Mohammed Babaqi's name and Data Engineer title.</desc>
-  <rect width="1200" height="210" rx="12" fill="#101820"/>
-  <rect x="1" y="1" width="1198" height="208" rx="11" fill="none" stroke="#29333d"/>
-  <rect x="32" y="48" width="3" height="114" rx="1.5" fill="#c5a17d"/>
-  <text x="60" y="100" fill="#f1f2f3" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="600" letter-spacing="-1.5">Mohammed Babaqi</text>
-  <text x="62" y="150" fill="#aebbc6" font-family="Arial, Helvetica, sans-serif" font-size="30">Data Engineer</text>
+  <desc id="desc">A dark copper-accented profile banner with a source-to-pipeline-to-data-store diagram.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#3a5565" opacity=".42"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="18" fill="#0c1821"/>
+  <rect x="870" y="1" width="409" height="270" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="338" rx="17" fill="none" stroke="#2b3e49"/>
+  <path d="M56 51h28" stroke="#e3a876" stroke-width="3"/>
+  <text x="97" y="56" fill="#a5b7c3" font-family="Consolas, monospace" font-size="14" letter-spacing="2.5">DATA ENGINEERING / ANALYTICS</text>
+  <text x="53" y="135" fill="#f4f0e8" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="70" letter-spacing="-2">Mohammed Babaqi</text>
+  <text x="56" y="184" fill="#e3a876" font-family="Arial, Helvetica, sans-serif" font-size="31">Data Engineer</text>
+  <text x="56" y="224" fill="#b4c2cb" font-family="Arial, Helvetica, sans-serif" font-size="20">Building the systems between raw data and real decisions.</text>
+  <g fill="#122530" stroke="#3d5663">
+    <rect x="910" y="64" width="84" height="36" rx="6"/>
+    <rect x="1015" y="64" width="84" height="36" rx="6"/>
+    <rect x="1120" y="64" width="84" height="36" rx="6"/>
+    <rect x="978" y="143" width="160" height="42" rx="7" stroke="#a98563"/>
+  </g>
+  <g fill="none" stroke="#698595" stroke-width="1.5">
+    <path d="M952 100v22h105v21m105-43v22h-105m0-22v43"/>
+    <path d="M1057 185v26" stroke="#e3a876"/>
+    <path d="m1052 205 5 6 5-6" stroke="#e3a876"/>
+    <path d="M1023 220v25c0 11 68 11 68 0v-25"/>
+    <ellipse cx="1057" cy="220" rx="34" ry="9"/>
+  </g>
+  <g fill="#c4d0d8" font-family="Consolas, monospace" font-size="14" text-anchor="middle">
+    <text x="952" y="87">APIs</text>
+    <text x="1057" y="87">SQL</text>
+    <text x="1162" y="87">FILES</text>
+    <text x="1057" y="170" fill="#e3a876">ETL / ELT</text>
+  </g>
+  <path d="M56 273h1168" stroke="#2b3e49"/>
+  <text x="56" y="312" fill="#a5b7c3" font-family="Consolas, monospace" font-size="16" letter-spacing="1">PIPELINES <tspan fill="#e3a876">/</tspan> DATA QUALITY <tspan fill="#e3a876">/</tspan> ANALYTICAL SYSTEMS</text>
+  <text x="1224" y="312" fill="#e3a876" text-anchor="end" font-family="Consolas, monospace" font-size="16">babaqi.io</text>
 </svg>
